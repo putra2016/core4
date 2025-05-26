@@ -1,4 +1,6 @@
 {
   "image": "mcr.microsoft.com/mcr/hello-world:v1.0",
-  "features": {}
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  }
 }
