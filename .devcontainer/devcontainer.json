@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/mcr/hello-world:v1.0",
+  "image": "mcr.microsoft.com/devcontainers/java:1-17-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   }
